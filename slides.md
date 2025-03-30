@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Rebuilding the Fallen Tent - Session 8
+title: Rebuilding the Fallen Tent - Session 10
 mdc: true
 download: true
 export:
@@ -29,75 +29,13 @@ fonts:
 
 # Rebuilding the Fallen Tent
 
-## Session 9: Who is the Lord of the Sabbath?
-
----
-layout: quote
----
-
-# Matthew 20:29--34
-As they were leaving Jericho, a large crowd followed him.
-There were two blind men sitting by the roadside.
-When they heard that Jesus was passing by, they shouted, “Lord, have mercy on us, Son of David!”
-The crowd sternly ordered them to be quiet; but they shouted even more loudly, “Have mercy on us, Lord, Son of David!”
-Jesus stood still and called them, saying, “What do you want me to do for you?”
-They said to him, “Lord, let our eyes be opened.”
-Moved with compassion, Jesus touched their eyes.
-Immediately they regained their sight and followed him.
-
----
-layout: quote
----
-
-# Matthew 21:9
-“Hosanna to the Son of David!”
-
-# Matthew 21:14--16
-The blind and the lame came to him in the temple, and he cured them.
-But when the chief priests and the scribes saw the amazing things that he did, and heard the children crying out in the temple, “Hosanna to the Son of David,” they became angry and said to him, “Do you hear what these are saying?”
-
----
-layout: quote
----
-
-# Ezekiel 34:15--24 (cf. Jeremiah 23:1--8)
-I myself will be the shepherd of my sheep, and I will make them lie down, says the Lord <sc>Lord</sc>.
-I will seek the lost, and I will bring back the strayed, and I will bind up the injured, and I will strengthen the weak, but the fat and the strong I will destroy\.\.\.\.
-Therefore, thus says the Lord GOD to them: I myself will judge between the fat sheep and the lean sheep.
-Because you pushed with flank and shoulder, and butted at all the weak animals with your horns until you scattered them far and wide, I will save my flock, and they shall no longer be ravaged; and I will judge between sheep and sheep. 
-I will set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd.
-And I, the <sc>Lord</sc>, will be their God, and my servant David shall be prince among them; I, the <sc>Lord</sc>, have spoken. 
+## Session 10: Hail to the King
 
 ---
 layout: statement
 ---
 
 # Luke 3--4: Jesus receives an anointing like David's
-
----
-layout: quote
----
-
-# Mk 2:23--28
-One sabbath \[Jesus\] was going through the grainfields; and as they made their way his disciples began to pluck heads of grain.
-The Pharisees said to him, “Look, why are they doing what is not lawful on the sabbath?”
-And he said to them, “Have you never read what David did when he and his companions were hungry and in need of food?
-He entered the house of God, when Abiathar was high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and he gave some to his companions.”
-Then he said to them, “The sabbath was made for humankind, and not humankind for the sabbath; so the Son of Man is lord even of the sabbath.”
-
----
-layout: quote
----
-
-# Mt 12:1--8
-At that time Jesus went through the grainfields on the sabbath; his disciples were hungry, and they began to pluck heads of grain and to eat.
-When the Pharisees saw it, they said to him, “Look, your disciples are doing what is not lawful to do on the sabbath.”
-He said to them, “Have you not read what David did when he and his companions were hungry?
-He entered the house of God and ate the bread of the Presence, which it was not lawful for him or his companions to eat, but only for the priests.
-Or have you not read in the law that on the sabbath the priests in the temple break the sabbath and yet are guiltless?
-I tell you, something greater than the temple is here.
-But if you had known what this means, ‘I desire mercy and not sacrifice,’ you would not have condemned the guiltless.
-For the Son of Man is lord of the sabbath.”
 
 ---
 layout: quote
@@ -115,88 +53,11 @@ Then he said to them, “The Son of Man is lord of the sabbath.”
 -->
 
 ---
-layout: quote
----
-
-# 1 Sam 21:1--9
-David came to Nob to the priest Ahimelech. Ahimelech came trembling to meet David, and said to him, “Why are you alone, and no one with you?”
-David said to the priest Ahimelech, “The king has charged me with a matter, and said to me, ‘No one must know anything of the matter\.\.\.\.’
-Now then, what have you at hand?
-Give me five loaves of bread, or whatever is here.”
-The priest answered David, “I have no ordinary bread at hand, only holy bread—provided that the young men have kept themselves from women.”
-David answered the priest, “Indeed women have been kept from us as always when I go on an expedition\.\.\.\.”
-So the priest gave him the holy bread; for there was no bread there except the bread of the Presence, which is removed from before the <sc>Lord</sc>, to be replaced by hot bread on the day it is taken away\.\.\.\.
-David said to Ahimelech, “Is there no spear or sword here with you?
-I did not bring my sword or my weapons with me, because the king’s business required haste.”
-The priest said, “The sword of Goliath the Philistine... is here wrapped in a cloth behind the ephod; if you will take that, take it\.\.\.\.”
-David said, “There is none like it; give it to me.”
-
----
-layout: statement
----
-
-# This story is not featured in early Jewish retellings of David's story.
-
-<!--
-* Josephus simply states that David "requested to receive provisions" (*Ant.* 6.243). 
-* Similarly, *L.A.B.* 63.1--2 does not directly narrate David's encounter with the priest, only referencing David's reception of the sword of Goliath from Ahimelech in the context of Doeg's report to Saul.
--->
-
----
 layout: statement
 ---
 
 # How does David acquire the right to override the law?
 # More specifically, how does David acquire authority *relative to the Sabbath*?
-
----
-layout: quote
----
-
-# 1 Chronicles 23:25--32
-\[David took a census of the Levites and organized their houses.\]
-For David said, “The <sc>Lord</sc>, the God of Israel, has given rest to his people; and he resides in Jerusalem forever.
-And so the Levites no longer need to carry the tabernacle or any of the things for its service...
-but their duty shall be to assist the descendants of Aaron for the service of the house of the <sc>Lord</sc>, having the care of the courts and the chambers, the cleansing of all that is holy, and any work for the service of the house of God; to assist also with <span v-mark="{color: '#59b58a', type: 'highlight', click: 1}">the rows of bread</span>.\.\.\.
-And they shall stand every morning, thanking and praising the <sc>Lord</sc>, and likewise at evening, and whenever burnt offerings are offered to the <sc>Lord</sc> on <span v-mark="{color: '#59b58a', type: 'highlight', click: 2}">sabbaths, new moons, and appointed festivals</span>, according to the number required of them, regularly before the <sc>Lord</sc>.
-Thus they shall keep charge of the tent of meeting and the sanctuary, and shall attend the descendants of Aaron, their kindred, for the service of the house of the <sc>Lord</sc>.”
-
----
-layout: quote
----
-
-# 2 Chronicles 35:4--6
-Make preparations by your ancestral houses by your divisions, following the written directions of King David of Israel and the written directions of his son Solomon.
-Take position in the holy place according to the groupings of the ancestral houses of your kindred the people, and let there be Levites for each division of an ancestral house.
-Slaughter the passover lamb, sanctify yourselves, and on behalf of your kindred make preparations, acting according to the word of the <sc>Lord</sc> by Moses.”
-
-# 2 Chronicles 35:15
-The singers, the descendants of Asaph, were in their place according to the command of David, and Asaph, and Heman, and the king’s seer Jeduthun.
-The gatekeepers were at each gate; they did not need to interrupt their service, for their kindred the Levites made preparations for them.
-
----
-layout: quote
----
-
-# Ben Sira, Sirach 47:9--10
-\[David\] placed singers before the altar, to make sweet melody with their voices.
-He gave beauty to the festivals, and arranged their times throughout the year, while they praised God's holy name, and the sanctuary resounded from early morning.
-
-# Josephus, *Ant.* 7.305
-David composed songs and hymns to God in varied meters.... He also produced musical instruments and taught the Levites to play hymns to God on these on the day called the Sabbath and on other feastdays.
-
----
-layout: quote
----
-
-# 11Q5 27.1--11: “David's Compositions”
-And David, son of Jesse, was wise, and a light like the light of the sun, and learned,\
-and discerning, and perfect in all his paths before God and men. And\
-YHWH gave him a discerning and enlightened spirit. And he wrote psalms:\
-three thousand six hundred; and songs to be sung before the altar over the perpetual\
-offering of every day, for all the days of the year: three hundred\
-and sixty-four; and <span v-mark="{color: '#59b58a', type: 'highlight', click: 1}">for the sabbath offerings: fifty-two songs</span>\.\.\.\.\
-All these he spoke through the spirit of prophecy which had been given to him from before the Most High.
 
 ---
 layout: statement
@@ -222,3 +83,180 @@ layout: statement
 ## Numbers 1:5--15: Moses appoints Israel's twelve tribal leaders
 ## 1 Chronicles 27:16--22: David's census names Israel's twelve tribal leaders
 ## Luke 6:12--19: Jesus assembles twelve new leaders for Israel on a mountain
+
+---
+layout: statement
+---
+
+# David in Luke's central section?
+# Lk 9:51--19:44
+
+---
+layout: quote
+---
+
+# Lk 9:28--36
+Now about eight days after these sayings Jesus took with him Peter and John and James, and went up on the mountain to pray.
+And while he was praying, the appearance of his face changed, and his clothes became dazling white.
+Suddenly they saw two men, Moses and Elijah, talking to him.
+They appeared in glory and were speaking of his departure, which he was about to accomplish at Jerusalem.
+Now Peter and his companions were weighed down with sleep; but since they had stayed awake, they saw his glory and the two men who stood with him.
+Just as they were leaving him, Peter said to Jesus, “Master, it is good for us to be here; let us make three dwellings, one for you, one for Moses, and one for Elijah”—not knowing what he said.
+While he was saying this, a cloud came and overshadowed them; and they were terrified as they entered the cloud.
+Then from the cloud came a voice that said, “This is my Son, my Chosen; listen to him!”
+When the voice had spoken, Jesus was found alone. And they kept silent and in those days told no one any of the things they had seen.
+
+---
+layout: statement
+---
+
+# 🚨 READERLY TIME TRAVEL 🚨
+
+---
+layout: quote
+---
+
+# Daniel 7:9--14
+As I watched,\
+thrones were set in place,\
+&emsp;and an Ancient One took his throne,\
+his clothing was white as snow,\
+&emsp;and the hair of his head like pure wool\.\.\.\.\
+I saw one like a human being\
+&emsp;coming with the clouds of heaven.\
+And he came to the Ancient One\
+&emsp;and was presented before him.\
+To him was given dominion\
+&emsp;and glory and kingship,\
+that all peoples, nations, and languages\
+&emsp;should serve him.
+
+---
+layout: quote
+---
+
+# Exodus 34:29--30
+Moses came down from Mount Sinai.
+As he came down from the mountain with the two tablets of the covenant in his hand, Moses did not know that the skin of his face shone because he had been talking with God.
+When Aaron and all the Israelites saw Moses, the skin of his face was shining, and they were afraid to come near him.
+
+# 11Q5 27.1--11: “David's Compositions”
+And David, son of Jesse, was wise, and a light like the light of the sun\.\.\.\.
+
+# Pseudo-Philo, *Liber Antiquitatum Biblicarum* 61.5--9
+The Philistine looked and saw the angel and said, “Not you alone killed me, but also he who was present with you, whose appearance is not like the appearance of a man.”
+Then David cut off his head.
+The angel of the Lord changed David's appearance, and no one recognized him.
+When Saul saw David, he asked him who he was, and there was no one who recognized him.
+
+---
+layout: quote
+---
+
+# Lk 13:31--35
+
+At that very hour some Pharisees came and said to him, “Get away from here, for Herod wants to kill you.”
+He said to them, “Go and tell that fox for me, ‘Listen, I am casting out demons and performing cures today and tomorrow, and on the third day I finish my work.
+Yet today, tomorrow, and the next day I must be on my way, because it is impossible for a prophet to be killed outside of Jerusalem.’
+Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it!
+How often have I desired to gather your children together as a hen gathers her brood under her wings, and you were not willing!
+See, your house is left to you.
+And I tell you, you will not see me until the time comes when you say, ‘Blessed is the one who comes in the name of the Lord.’”
+
+---
+layout: quote
+---
+
+# 2 Samuel 15:13--14
+A messenger came to David, saying, “The hearts of the Israelites have gone after Absalom.”
+Then David said to all his officials who were with him at Jerusalem, “Get up! Let us flee, or there will be no escape for us from Absalom.
+Hurry, or he will soon overtake us, and bring disaster down upon us, and attack the city with the edge of the sword.”
+
+# 2 Samuel 17:21
+After \[Absalom's servants\] had gone, the men came up out of the well, and went and told King David. They said to David, “Go and cross the water quickly; for thus and so has Ahithophel counseled against you.”
+
+---
+layout: quote
+---
+
+# Lk 18:35--19:10
+As he approached Jericho, a blind man was sitting by the roadside begging.
+When he heard a crowd going by, he asked what was happening.
+They told him, “Jesus of Nazareth is passing by.”
+Then he shouted, “Jesus, Son of David, have mercy on me!” ...
+Jesus said to him, “Receive your sight; your faith has saved you.”
+Immediately he regained his sight and followed him, glorifying God; and all the people, when they saw it, praised God. 
+He entered Jericho and was passing through it.
+A man was there named Zacchaeus; he was a chief tax collector and was rich\.\.\.\.
+When Jesus came to the place, he looked up and said to him, “Zacchaeus, hurry and come down; for I must stay at your house today.”
+...
+All who saw it began to grumble and said, “He has gone to be the guest of one who is a sinner.”
+Zacchaeus stood there and said to the Lord, “Look, half of my possessions, Lord, I will give to the poor; and if I have defrauded anyone of anything, I will pay back four times as much.”
+Then Jesus said to him, “Today salvation has come to this house, because he too is a son of Abraham.
+For the Son of Man came to seek out and to save the lost.”
+
+---
+layout: quote
+---
+
+# Ezekiel 34:15--24 (cf. Jeremiah 23:1--8)
+I myself will be the shepherd of my sheep, and I will make them lie down, says the Lord <sc>Lord</sc>.
+I will seek the lost, and I will bring back the strayed, and I will bind up the injured, and I will strengthen the weak, but the fat and the strong I will destroy\.\.\.\.
+Therefore, thus says the Lord GOD to them: I myself will judge between the fat sheep and the lean sheep.
+Because you pushed with flank and shoulder, and butted at all the weak animals with your horns until you scattered them far and wide, I will save my flock, and they shall no longer be ravaged; and I will judge between sheep and sheep. 
+I will set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd.
+And I, the <sc>Lord</sc>, will be their God, and my servant David shall be prince among them; I, the <sc>Lord</sc>, have spoken. 
+
+---
+layout: quote
+---
+
+# Lk 19:29--40
+When he had come near Bethphage and Bethany, at the place called the Mount of Olives, he sent two of the disciples, saying, “Go into the village ahead of you, and as you enter it you will find tied there a colt that has never been ridden.
+Untie it and bring it here.
+If anyone asks you, ‘Why are you untying it?’ just say this, ‘The Lord needs it.’”
+So those who were sent departed and found it as he had told them\.\.\.\.
+As he rode along, people kept spreading their cloaks on the road.
+As he was now approaching the path down from the Mount of Olives, the whole multitude of the disciples began to praise God joyfully with a loud voice for all the deeds of power that they had seen, saying,\
+&emsp;“Blessed is the king\
+&emsp;&emsp;who comes in the name of the Lord!\
+&emsp;Peace in heaven,\
+&emsp;&emsp;and glory in the highest heaven!”\
+Some of the Pharisees in the crowd said to him, “Teacher, order your disciples to stop.”
+He answered, “I tell you, if these were silent, the stones would shout out.” 
+
+---
+layout: quote
+---
+
+# 1 Kings 1:32--40
+King David said, “Summon to me the priest Zadok, the prophet Nathan, and Benaiah son of Jehoiada.”
+When they came before the king, the king said to them, “Take with you the servants of your lord, and have my son Solomon ride on my own mule, and bring him down to Gihon.
+There let the priest Zadok and the prophet Nathan anoint him king over Israel; then blow the trumpet, and say, ‘Long live King Solomon!’
+You shall go up following him.
+Let him enter and sit on my throne; he shall be king in my place; for I have appointed him to be ruler over Israel and over Judah.”
+
+---
+layout: quote
+---
+
+# Lk 19:41--44
+As he came near and saw the city, he wept over it, saying, “If you, even you, had only recognized on this day the things that make for peace!
+But now they are hidden from your eyes.
+Indeed, the days will come upon you, when your enemies will set up ramparts around you and surround you, and hem you in on every side.
+They will crush you to the ground, you and your children within you, and they will not leave within you one stone upon another; because you did not recognize the time of your visitation from God.”
+
+---
+layout: quote
+---
+
+# 2 Samuel 15:30--37
+But David went up the ascent of the Mount of Olives, weeping as he went, with his head covered and walking barefoot; and all the people who were with him covered their heads and went up, weeping as they went.
+David was told that Ahithophel was among the conspirators with Absalom. And David said, “O <sc>Lord</sc>, I pray you, turn the counsel of Ahithophel into foolishness.” 
+When David came to the summit, where God was worshiped, Hushai the Archite came to meet him with his coat torn and earth on his head.
+David said to him, “If you go on with me, you will be a burden to me.
+But if you return to the city and say to Absalom, ‘I will be your servant, O king; as I have been your father’s servant in time past, so now I will be your servant,’ then you will defeat for me the counsel of Ahithophel.
+The priests Zadok and Abiathar will be with you there.
+So whatever you hear from the king’s house, tell it to the priests Zadok and Abiathar.
+Their two sons are with them there, Zadok’s son Ahimaaz and Abiathar’s son Jonathan; and by them you shall report to me everything you hear.”
+So Hushai, David’s friend, came into the city, just as Absalom was entering Jerusalem.
