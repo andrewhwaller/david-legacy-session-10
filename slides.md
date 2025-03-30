@@ -29,7 +29,7 @@ fonts:
 
 # Rebuilding the Fallen Tent
 
-## Session 10: Hail to the King
+## Session 10: Great David's Greater Son
 
 ---
 layout: statement
