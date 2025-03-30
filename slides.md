@@ -32,12 +32,6 @@ fonts:
 ## Session 10: Great David's Greater Son
 
 ---
-layout: statement
----
-
-# Luke 3--4: Jesus receives an anointing like David's
-
----
 layout: quote
 ---
 
@@ -56,13 +50,6 @@ Then he said to them, “The Son of Man is lord of the sabbath.”
 layout: statement
 ---
 
-# How does David acquire the right to override the law?
-# More specifically, how does David acquire authority *relative to the Sabbath*?
-
----
-layout: statement
----
-
 # David, like Moses, is a “master of the sabbath.”
 
 <!--
@@ -74,15 +61,6 @@ layout: statement
   * Rather, David's Sabbath authority flows out of his status as the prophetic founder of Israel's temple cult.
   * Stated perhaps more provocatively, if there is any figure within the early Jewish literary imagination that could attain to the title of "lord of the Sabbath," it is David.
 -->
-
----
-layout: statement
----
-# Prophets as administrators
-
-## Numbers 1:5--15: Moses appoints Israel's twelve tribal leaders
-## 1 Chronicles 27:16--22: David's census names Israel's twelve tribal leaders
-## Luke 6:12--19: Jesus assembles twelve new leaders for Israel on a mountain
 
 ---
 layout: statement
